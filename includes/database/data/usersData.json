@@ -1,0 +1,178 @@
+{
+    "100000799788612": {
+        "userID": "100000799788612",
+        "name": "Jervis Ray Gregorio",
+        "vanity": "dags1968",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 325,
+        "createTime": {
+            "timestamp": 1690161277690
+        },
+        "data": {
+            "timestamp": 1690161277690
+        },
+        "lastUpdate": 1690161277690
+    },
+    "100090210079306": {
+        "userID": "100090210079306",
+        "name": "Ai Bot",
+        "vanity": "100090210079306",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 321,
+        "createTime": {
+            "timestamp": 1690161279082
+        },
+        "data": {
+            "timestamp": 1690161279082
+        },
+        "lastUpdate": 1690161279082
+    },
+    "100090794451776": {
+        "userID": "100090794451776",
+        "name": "Ai Bot",
+        "vanity": "namelessbot",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 13,
+        "createTime": {
+            "timestamp": 1690162396948
+        },
+        "data": {
+            "timestamp": 1690162396948
+        },
+        "lastUpdate": 1690162396948
+    },
+    "100025159846402": {
+        "userID": "100025159846402",
+        "name": "PE PE",
+        "vanity": "toki.kozuki",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 86,
+        "createTime": {
+            "timestamp": 1690162397088
+        },
+        "data": {
+            "timestamp": 1690162397088
+        },
+        "lastUpdate": 1690162397088
+    },
+    "100091256324972": {
+        "userID": "100091256324972",
+        "name": "Aibot Ai",
+        "vanity": "100091256324972",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 87,
+        "createTime": {
+            "timestamp": 1690162397094
+        },
+        "data": {
+            "timestamp": 1690162397094
+        },
+        "lastUpdate": 1690162397094
+    },
+    "100052551547536": {
+        "userID": "100052551547536",
+        "name": "Jervis Ray",
+        "vanity": "jrmgd",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1690162397241
+        },
+        "data": {
+            "timestamp": 1690162397241
+        },
+        "lastUpdate": 1690162397241
+    },
+    "100088221697349": {
+        "userID": "100088221697349",
+        "name": "Queen Charlotte Rox",
+        "vanity": "100088221697349",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1690162397395
+        },
+        "data": {
+            "timestamp": 1690162397395
+        },
+        "lastUpdate": 1690162397395
+    },
+    "100095124847113": {
+        "userID": "100095124847113",
+        "name": "Bati Bot",
+        "vanity": "100095124847113",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 38,
+        "createTime": {
+            "timestamp": 1690162397570
+        },
+        "data": {
+            "timestamp": 1690162397570
+        },
+        "lastUpdate": 1690162397570
+    },
+    "61550011531253": {
+        "userID": "61550011531253",
+        "name": "Leo Batibot",
+        "vanity": "61550011531253",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 8,
+        "createTime": {
+            "timestamp": 1690191212262
+        },
+        "data": {
+            "timestamp": 1690191212262
+        },
+        "lastUpdate": 1690191212262
+    },
+    "100024846726503": {
+        "userID": "100024846726503",
+        "name": "JIMUEL GREGORIO",
+        "vanity": "jimuel.gregorio.9",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 16,
+        "createTime": {
+            "timestamp": 1690295607189
+        },
+        "data": {
+            "timestamp": 1690295607189
+        },
+        "lastUpdate": 1690295607189
+    },
+    "100071615889419": {
+        "userID": "100071615889419",
+        "name": "KC Dump",
+        "vanity": "squesl.dasveusch",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 12,
+        "createTime": {
+            "timestamp": 1690372419669
+        },
+        "data": {
+            "timestamp": 1690372419669
+        },
+        "lastUpdate": 1690372419669
+    }
+}
